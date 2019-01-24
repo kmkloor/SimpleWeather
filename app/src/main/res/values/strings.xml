@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Simple Weather App</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+
+    <string name="start_updates">GPS</string>
+    <string name="stop_updates">ZIP</string>
+
+    <string name="location_settings_inadequate_warning">The location settings on the device are not
+        adequate to run this sample. Fix in Settings.</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string-array name="weather_keys">
+        <item>wi_day_sunny</item>
+        <item>wi_day_cloudy</item>
+        <item>wi_day_cloudy_gusts</item>
+        <item>wi_day_showers</item>
+        <item>wi_day_fog</item>
+        <item>wi_day_hail</item>
+        <item>wi_day_haze</item>
+        <item>wi_day_lightning</item>
+        <item>wi_day_rain</item>
+        <item>wi_day_rain_mix</item>
+        <item>wi_day_rain_wind</item>
+        <item>wi_day_showers</item>
+        <item>wi_day_sleet</item>
+        <item>wi_day_sleet_storm</item>
+        <item>wi_day_snow</item>
+        <item>wi_day_snow_thunderstorm</item>
+        <item>wi_day_snow_wind</item>
+        <item>wi_day_sprinkle</item>
+        <item>wi_day_storm_showers</item>
+        <item>wi_day_sunny_overcast</item>
+        <item>wi_day_thunderstorm</item>
+        <item>wi_day_windy</item>
+        <item>wi_solar_eclipse</item>
+        <item>wi_hot</item>
+        <item>wi_day_cloudy_high</item>
+        <item>wi_day_light_wind</item>
+        <item>wi_night_clear</item>
+        <item>wi_night_cloudy</item>
+        <item>wi_night_cloudy_gusts</item>
+        <item>wi_night_alt_cloudy_windy</item>
+        <item>wi_night_alt_hail</item>
+        <item>wi_night_alt_lightning</item>
+        <item>wi_night_alt_rain</item>
+        <item>wi_night_alt_rain_mix</item>
+        <item>wi_night_alt_rain_wind</item>
+        <item>wi_night_alt_showers</item>
+        <item>wi_night_alt_sleet</item>
+        <item>wi_night_alt_sleet_storm</item>
+        <item>wi_night_alt_snow</item>
+        <item>wi_night_alt_snow_thunderstorm</item>
+        <item>wi_night_alt_snow_wind</item>
+        <item>wi_night_alt_sprinkle</item>
+        <item>wi_night_alt_storm_showers</item>
+        <item>wi_night_alt_thunderstorm</item>
+        <item>wi_night_alt_cloudy</item>
+        <item>wi_night_alt_cloudy_gusts</item>
+        <item>wi_night_cloudy_windy</item>
+        <item>wi_night_fog</item>
+        <item>wi_night_hail</item>
+        <item>wi_night_lightning</item>
+        <item>wi_night_partly_cloudy</item>
+        <item>wi_night_rain</item>
+        <item>wi_night_rain_mix</item>
+        <item>wi_night_rain_wind</item>
+        <item>wi_night_showers</item>
+        <item>wi_night_sleet</item>
+        <item>wi_night_sleet_storm</item>
+        <item>wi_night_snow</item>
+        <item>wi_night_snow_thunderstorm</item>
+        <item>wi_night_snow_wind</item>
+        <item>wi_night_sprinkle</item>
+        <item>wi_night_storm_showers</item>
+        <item>wi_night_thunderstorm</item>
+
+    </string-array>
+    <string-array name="weather_values">
+        <item>&#xf00d;</item>
+        <item>&#xf002;</item>
+        <item>&#xf000;</item>
+        <item>&#xf009;</item>
+       <item>&#xf003;</item>
+        <item>&#xf004;</item>
+        <item>&#xf0b6;</item>
+       <item>&#xf005;</item>
+        <item>&#xf008;</item>
+        <item>&#xf006;</item>
+       <item>&#xf007;</item>
+       <item>&#xf009;</item>
+       <item>&#xf0b2;</item>
+        <item>&#xf068;</item>
+       <item>&#xf00a;</item>
+        <item>&#xf06b;</item>
+       <item>&#xf065;</item>
+        <item>&#xf00b;</item>
+        <item>&#xf00e;</item>
+       <item>&#xf00c;</item>
+        <item>&#xf010;</item>
+       <item>&#xf085;</item>
+        <item>&#xf06e;</item>
+       <item>&#xf072;</item>
+       <item>&#xf07d;</item>
+       <item>&#xf0c4;</item>
+        <item>&#xf02e;</item>
+        <item>&#xf086;</item>
+        <item>&#xf022;</item>
+        <item>&#xf023;</item>
+        <item>&#xf024;</item>
+        <item>&#xf025;</item>
+        <item>&#xf028;</item>
+        <item>&#xf026;</item>
+        <item>&#xf027;</item>
+        <item>&#xf029;</item>
+        <item>&#xf0b4;</item>
+        <item>&#xf06a;</item>
+        <item>&#xf02a;</item>
+        <item>&#xf06d;</item>
+        <item>&#xf067;</item>
+        <item>&#xf02b;</item>
+        <item>&#xf02c;</item>
+        <item>&#xf02d;</item>
+        <item>&#xf031;</item>
+        <item>&#xf02f;</item>
+        <item>&#xf030;</item>
+        <item>&#xf04a;</item>
+        <item>&#xf032;</item>
+        <item>&#xf033;</item>
+        <item>&#xf083;</item>
+        <item>&#xf036;</item>
+        <item>&#xf034;</item>
+        <item>&#xf035;</item>
+        <item>&#xf037;</item>
+        <item>&#xf0b3;</item>
+        <item>&#xf069;</item>
+        <item>&#xf038;</item>
+        <item>&#xf06c;</item>
+        <item>&#xf066;</item>
+        <item>&#xf039;</item>
+        <item>&#xf03a;</item>
+        <item>&#xf03b;</item>
+
+    </string-array>
+
+
+</resources>
